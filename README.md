@@ -1,7 +1,7 @@
 RecurrencePickerDialog and Parser
 =================================
 
-![image](https://github.com/tyczj/ExtendedCalendarView/raw/master/screenshot.jpg)
+![image](https://github.com/supermarcos/RecurrencePicker/blob/master/screenshot.jpeg)
 
 This project is for the people who want to display a recurrence dialog for calendars/schedulers/agendas.
 It shows a dialog with enough features to create a RRULE string for GoogleCalendar API or others who follows the RRULE standards.
